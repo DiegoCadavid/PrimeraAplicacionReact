@@ -23,7 +23,7 @@ const AddCategory = ({ setCategories }) => {
             <input
                 className='form-control shadow-sm w-100'
                 type="text"
-                placeholder='Escribe tu superHeroe'
+                placeholder='Escribe aqui...'
                 value={inputValue}
                 onChange={handleInputChange}
             />
